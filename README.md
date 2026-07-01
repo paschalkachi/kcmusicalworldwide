@@ -177,7 +177,3 @@ php artisan make:model YourModel -m
 # Create a new migration
 php artisan make:migration create_your_table
 ```
-
-## Notes
-
-This repository contains a Laravel-based musical store application, not a generic admin starter. The existing folders and routes are organized around storefront, checkout, payment, and back-office retail workflows.
